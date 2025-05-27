@@ -1,6 +1,9 @@
 # Video Anomaly Detection
 
-This repository contains a PyTorch implementation for **Video-Text Prompted Anomaly Detection**, which combines visual feature forecasting, GCN-based representation learning, and memory modules with CLIP-based text embeddings. The model is capable of detecting anomalies in video frames conditioned on natural language prompts.
+This repository contains a PyTorch implementation for **Video-Text Prompted Anomaly Detection**, which combines visual feature forecasting, GCN-based representation learning, and memory modules with CLIP-based text embeddings. The model is capable of detecting anomalies in video frames conditioned on natural language prompts. 
+
+
+✅ **Achieved 87.86% AUC on the UCF-Crime dataset**.
 
 ## 🚀 Features
 
