@@ -11,6 +11,12 @@ This repository contains a PyTorch implementation for **Video-Text Prompted Anom
 - Multi-level visual-text alignment via dot product and attention
 - Forecasting-based future prediction loss
 
+
+To Extract CLIP Features
+```
+python extract_clip.py
+```
+
 Traing and infer for UCF-Crime dataset
 ```
 python ucf_train.py
